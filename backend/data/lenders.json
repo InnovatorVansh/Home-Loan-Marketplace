@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "State Bank of India",
+    "interestRate": 6.5,
+    "processingFee": 0.5,
+    "approvalTime": "3-5 days",
+    "logoUrl": "https://via.placeholder.com/150?text=SBI"
+  },
+  {
+    "id": 2,
+    "name": "HDFC Bank",
+    "interestRate": 7.2,
+    "processingFee": 0.75,
+    "approvalTime": "5-7 days",
+    "logoUrl": "https://via.placeholder.com/150?text=HDFC"
+  },
+  {
+    "id": 3,
+    "name": "ICICI Bank",
+    "interestRate": 7.0,
+    "processingFee": 0.6,
+    "approvalTime": "4-6 days",
+    "logoUrl": "https://via.placeholder.com/150?text=ICICI"
+  },
+  {
+    "id": 4,
+    "name": "Axis Bank",
+    "interestRate": 6.8,
+    "processingFee": 0.55,
+    "approvalTime": "3-5 days",
+    "logoUrl": "https://via.placeholder.com/150?text=Axis"
+  },
+  {
+    "id": 5,
+    "name": "Kotak Bank",
+    "interestRate": 6.9,
+    "processingFee": 0.65,
+    "approvalTime": "5-7 days",
+    "logoUrl": "https://via.placeholder.com/150?text=Kotak"
+  }
+]
